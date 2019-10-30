@@ -1,0 +1,16 @@
+// Number of maximum planes 
+4
+// Number of maximum particles
+3
+// Resurrection cooldown (after X all planes resurrect)
+10
+// Which plane should get Path One? (from 0 to MAX_PLANES, type // for NULL)
+0
+// Path Two (disabled)
+//
+// Path Three
+2
+// Path Four
+3
+// Path Five
+1
